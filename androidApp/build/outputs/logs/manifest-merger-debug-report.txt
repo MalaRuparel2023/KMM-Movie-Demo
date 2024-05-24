@@ -1,0 +1,327 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+MERGED from [:shared] /home/mala/Downloads/kmm-movieapp-main/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.skydoves:landscapist-glide:1.5.2] /home/mala/.gradle/caches/transforms-3/417f59cb968820439e8c3c3a78a15e2f/transformed/landscapist-glide-1.5.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.skydoves:landscapist:1.5.2] /home/mala/.gradle/caches/transforms-3/5c08a457b3970865f9efabfa957c06de/transformed/landscapist-1.5.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /home/mala/.gradle/caches/transforms-3/1f4180c3cd6aabeb74d4874d172caf58/transformed/ui-tooling-1.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.compose.material:material:1.2.1] /home/mala/.gradle/caches/transforms-3/b86400f02cf11fa079d1c2d97ef3ac8b/transformed/material-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /home/mala/.gradle/caches/transforms-3/2106a6143fb97c9276192fd49da8204b/transformed/material-ripple-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /home/mala/.gradle/caches/transforms-3/98187e93d8dae5174f98c3b456c68c67/transformed/foundation-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-compose:1.5.1] /home/mala/.gradle/caches/transforms-3/b882bcd90ad5e003df015b59c5b84043/transformed/activity-compose-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/mala/.gradle/caches/transforms-3/f43ef8297827d4b7b1afff87fa1350f4/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /home/mala/.gradle/caches/transforms-3/99adf8a0e6dc199f7fc8490f912b6e88/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /home/mala/.gradle/caches/transforms-3/3b3b4dd8ba30b073b7a6bfbeb964c3dc/transformed/foundation-layout-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /home/mala/.gradle/caches/transforms-3/19afe817175783f5db574360d3cd8450/transformed/material-icons-core-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/mala/.gradle/caches/transforms-3/0d665e9e6bd56fa6395730091535583b/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.1] /home/mala/.gradle/caches/transforms-3/075a0fab6b3494c4065319a8e0dd0341/transformed/ui-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /home/mala/.gradle/caches/transforms-3/99d0ac9ef8c5b2220b4041c4a38fce34/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /home/mala/.gradle/caches/transforms-3/43f104eb9dd189e4c5d6e144842d6ec3/transformed/ui-text-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /home/mala/.gradle/caches/transforms-3/e69f21352777419838bdea19f01d5617/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /home/mala/.gradle/caches/transforms-3/c85b98e345116f4308a6f30a36c4570f/transformed/ui-graphics-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /home/mala/.gradle/caches/transforms-3/ecd41dc9025da45f208bf4b5fd903d17/transformed/ui-unit-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /home/mala/.gradle/caches/transforms-3/7c4ef59efe882d64b38cc45915d76b32/transformed/ui-geometry-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /home/mala/.gradle/caches/transforms-3/91a602eee3c23a5eed07a1cc7b78bebe/transformed/runtime-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/mala/.gradle/caches/transforms-3/f6c79e94836ebd98872734abbbe14d43/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/mala/.gradle/caches/transforms-3/ace8b9241eecd2084632ddff00340c12/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/mala/.gradle/caches/transforms-3/77bf98221f9be1f7f867c0a96a95e224/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/mala/.gradle/caches/transforms-3/6063a816722121f89918d5b3ee79f670/transformed/glide-4.13.2/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.3.1] /home/mala/.gradle/caches/transforms-3/66f1b2dd1c7421d2143818b55495e537/transformed/fragment-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /home/mala/.gradle/caches/transforms-3/ebd7cdff6add4b7110bed36c62de164e/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.palette:palette-ktx:1.0.0] /home/mala/.gradle/caches/transforms-3/f1b0e4b73e6044105144e50f71c79256/transformed/palette-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] /home/mala/.gradle/caches/transforms-3/7709fb6f0051e1d48132746be1a5b1cc/transformed/palette-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mala/.gradle/caches/transforms-3/764e9289d6c4f86a533eb4efc1906480/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mala/.gradle/caches/transforms-3/f6cb7aa4cfe069ae66b3923ff5abd772/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mala/.gradle/caches/transforms-3/703b09a516edd33736a60b5925dedf07/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mala/.gradle/caches/transforms-3/b796ca765a72d6ee66bc7997f3d56a87/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/mala/.gradle/caches/transforms-3/3f34e0c6d894f7249ae310d4c3ef1c05/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/mala/.gradle/caches/transforms-3/110d233053b913867182dd5a215c3a3a/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /home/mala/.gradle/caches/transforms-3/136b18da2867cdbf9a18778a0c8b3196/transformed/ui-util-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/mala/.gradle/caches/transforms-3/19d81b99926809925477d3f70fd1aa71/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/mala/.gradle/caches/transforms-3/8eace9a5494c035526b72268e42aedc1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/mala/.gradle/caches/transforms-3/2e4d7dbc5db88eeedc6f0f7476df3997/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/mala/.gradle/caches/transforms-3/13bc0f606b1231a85b27f6a47b831049/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/mala/.gradle/caches/transforms-3/6e32af0a4d5ae79b2b621e31eaaf0981/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mala/.gradle/caches/transforms-3/6779ed1819910f84ca78c9d76b0ff56b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/mala/.gradle/caches/transforms-3/74191777d0fd74117a9c7feb898a4016/transformed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/0d9c981daab060abfe589b4f098c9450/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/b2d9fc359a024575cf6fadab011baf15/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mala/.gradle/caches/transforms-3/ef1e547015893e22df1b149398ff3561/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/mala/.gradle/caches/transforms-3/8e46e16e13025ac1cdbb0572dcfc3637/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/3ae7b4793c244f415411f3a40d129e32/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mala/.gradle/caches/transforms-3/8e404a54552d82ba75ed1362826a120b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /home/mala/.gradle/caches/transforms-3/cd751deead280240bfd278d0965e481f/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/mala/.gradle/caches/transforms-3/c69ad7dca1ce0a4cfb9a0401ea692eba/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mala/.gradle/caches/transforms-3/515516bcd7e2c9784efc7bdd99106e27/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/mala/.gradle/caches/transforms-3/fe7ee1c452c9eec02d84c6d1634d92ee/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mala/.gradle/caches/transforms-3/bfa197638e23897a69372864836ba288/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mala/.gradle/caches/transforms-3/964d03662b67a2587f1e8ade5e4f7af4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/mala/.gradle/caches/transforms-3/4b9c92b36686c8763fdf1b0331c832f5/transformed/gifdecoder-4.13.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/mala/.gradle/caches/transforms-3/6982d14e15a23f3b2382a009b4e94360/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mala/.gradle/caches/transforms-3/aa640855955d5c994ceb3e7430a4e4b9/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mala/.gradle/caches/transforms-3/37cc091e2e6cbf0a9ee99739c58f5c2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mala/.gradle/caches/transforms-3/1d4184e1270c2c7cf4695c98c22af4a7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mala/.gradle/caches/transforms-3/a596b624bad9777e63642569381a9a76/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mala/.gradle/caches/transforms-3/f65b938e55e2aac9594b5b76b46f76ab/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mala/.gradle/caches/transforms-3/0ba24eb98b7e6b5133fb9964eea07b40/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/mala/.gradle/caches/transforms-3/8e5047269902b917360013e9247d232c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/mala/.gradle/caches/transforms-3/9d6ef68581aa26f00848e6996f8f5232/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:1-19:12
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:6:5-18:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /home/mala/.gradle/caches/transforms-3/1f4180c3cd6aabeb74d4874d172caf58/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /home/mala/.gradle/caches/transforms-3/1f4180c3cd6aabeb74d4874d172caf58/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/mala/.gradle/caches/transforms-3/6063a816722121f89918d5b3ee79f670/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/mala/.gradle/caches/transforms-3/6063a816722121f89918d5b3ee79f670/transformed/glide-4.13.2/AndroidManifest.xml:10:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.core:core:1.8.0] /home/mala/.gradle/caches/transforms-3/cd751deead280240bfd278d0965e481f/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /home/mala/.gradle/caches/transforms-3/cd751deead280240bfd278d0965e481f/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mala/.gradle/caches/transforms-3/964d03662b67a2587f1e8ade5e4f7af4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mala/.gradle/caches/transforms-3/964d03662b67a2587f1e8ade5e4f7af4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/mala/.gradle/caches/transforms-3/4b9c92b36686c8763fdf1b0331c832f5/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/mala/.gradle/caches/transforms-3/4b9c92b36686c8763fdf1b0331c832f5/transformed/gifdecoder-4.13.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mala/.gradle/caches/transforms-3/37cc091e2e6cbf0a9ee99739c58f5c2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mala/.gradle/caches/transforms-3/37cc091e2e6cbf0a9ee99739c58f5c2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /home/mala/.gradle/caches/transforms-3/cd751deead280240bfd278d0965e481f/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:8:9-35
+	android:allowBackup
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:9:9-40
+activity#com.mr.movieapp.android.MainActivity
+ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:10:9-17:20
+	android:exported
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /home/mala/Downloads/kmm-movieapp-main/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared] /home/mala/Downloads/kmm-movieapp-main/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.github.skydoves:landscapist-glide:1.5.2] /home/mala/.gradle/caches/transforms-3/417f59cb968820439e8c3c3a78a15e2f/transformed/landscapist-glide-1.5.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.skydoves:landscapist-glide:1.5.2] /home/mala/.gradle/caches/transforms-3/417f59cb968820439e8c3c3a78a15e2f/transformed/landscapist-glide-1.5.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.skydoves:landscapist:1.5.2] /home/mala/.gradle/caches/transforms-3/5c08a457b3970865f9efabfa957c06de/transformed/landscapist-1.5.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.skydoves:landscapist:1.5.2] /home/mala/.gradle/caches/transforms-3/5c08a457b3970865f9efabfa957c06de/transformed/landscapist-1.5.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /home/mala/.gradle/caches/transforms-3/1f4180c3cd6aabeb74d4874d172caf58/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /home/mala/.gradle/caches/transforms-3/1f4180c3cd6aabeb74d4874d172caf58/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /home/mala/.gradle/caches/transforms-3/b86400f02cf11fa079d1c2d97ef3ac8b/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /home/mala/.gradle/caches/transforms-3/b86400f02cf11fa079d1c2d97ef3ac8b/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /home/mala/.gradle/caches/transforms-3/2106a6143fb97c9276192fd49da8204b/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /home/mala/.gradle/caches/transforms-3/2106a6143fb97c9276192fd49da8204b/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /home/mala/.gradle/caches/transforms-3/98187e93d8dae5174f98c3b456c68c67/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /home/mala/.gradle/caches/transforms-3/98187e93d8dae5174f98c3b456c68c67/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-compose:1.5.1] /home/mala/.gradle/caches/transforms-3/b882bcd90ad5e003df015b59c5b84043/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /home/mala/.gradle/caches/transforms-3/b882bcd90ad5e003df015b59c5b84043/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/mala/.gradle/caches/transforms-3/f43ef8297827d4b7b1afff87fa1350f4/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /home/mala/.gradle/caches/transforms-3/f43ef8297827d4b7b1afff87fa1350f4/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /home/mala/.gradle/caches/transforms-3/99adf8a0e6dc199f7fc8490f912b6e88/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /home/mala/.gradle/caches/transforms-3/99adf8a0e6dc199f7fc8490f912b6e88/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /home/mala/.gradle/caches/transforms-3/3b3b4dd8ba30b073b7a6bfbeb964c3dc/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /home/mala/.gradle/caches/transforms-3/3b3b4dd8ba30b073b7a6bfbeb964c3dc/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /home/mala/.gradle/caches/transforms-3/19afe817175783f5db574360d3cd8450/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /home/mala/.gradle/caches/transforms-3/19afe817175783f5db574360d3cd8450/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/mala/.gradle/caches/transforms-3/0d665e9e6bd56fa6395730091535583b/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /home/mala/.gradle/caches/transforms-3/0d665e9e6bd56fa6395730091535583b/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.1] /home/mala/.gradle/caches/transforms-3/075a0fab6b3494c4065319a8e0dd0341/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.1] /home/mala/.gradle/caches/transforms-3/075a0fab6b3494c4065319a8e0dd0341/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /home/mala/.gradle/caches/transforms-3/99d0ac9ef8c5b2220b4041c4a38fce34/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /home/mala/.gradle/caches/transforms-3/99d0ac9ef8c5b2220b4041c4a38fce34/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /home/mala/.gradle/caches/transforms-3/43f104eb9dd189e4c5d6e144842d6ec3/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /home/mala/.gradle/caches/transforms-3/43f104eb9dd189e4c5d6e144842d6ec3/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /home/mala/.gradle/caches/transforms-3/e69f21352777419838bdea19f01d5617/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /home/mala/.gradle/caches/transforms-3/e69f21352777419838bdea19f01d5617/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /home/mala/.gradle/caches/transforms-3/c85b98e345116f4308a6f30a36c4570f/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /home/mala/.gradle/caches/transforms-3/c85b98e345116f4308a6f30a36c4570f/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /home/mala/.gradle/caches/transforms-3/ecd41dc9025da45f208bf4b5fd903d17/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /home/mala/.gradle/caches/transforms-3/ecd41dc9025da45f208bf4b5fd903d17/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /home/mala/.gradle/caches/transforms-3/7c4ef59efe882d64b38cc45915d76b32/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /home/mala/.gradle/caches/transforms-3/7c4ef59efe882d64b38cc45915d76b32/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /home/mala/.gradle/caches/transforms-3/91a602eee3c23a5eed07a1cc7b78bebe/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /home/mala/.gradle/caches/transforms-3/91a602eee3c23a5eed07a1cc7b78bebe/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/mala/.gradle/caches/transforms-3/f6c79e94836ebd98872734abbbe14d43/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/mala/.gradle/caches/transforms-3/f6c79e94836ebd98872734abbbe14d43/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/mala/.gradle/caches/transforms-3/ace8b9241eecd2084632ddff00340c12/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/mala/.gradle/caches/transforms-3/ace8b9241eecd2084632ddff00340c12/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/mala/.gradle/caches/transforms-3/77bf98221f9be1f7f867c0a96a95e224/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/mala/.gradle/caches/transforms-3/77bf98221f9be1f7f867c0a96a95e224/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/mala/.gradle/caches/transforms-3/6063a816722121f89918d5b3ee79f670/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.2] /home/mala/.gradle/caches/transforms-3/6063a816722121f89918d5b3ee79f670/transformed/glide-4.13.2/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.3.1] /home/mala/.gradle/caches/transforms-3/66f1b2dd1c7421d2143818b55495e537/transformed/fragment-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.1] /home/mala/.gradle/caches/transforms-3/66f1b2dd1c7421d2143818b55495e537/transformed/fragment-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/mala/.gradle/caches/transforms-3/ebd7cdff6add4b7110bed36c62de164e/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/mala/.gradle/caches/transforms-3/ebd7cdff6add4b7110bed36c62de164e/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.palette:palette-ktx:1.0.0] /home/mala/.gradle/caches/transforms-3/f1b0e4b73e6044105144e50f71c79256/transformed/palette-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette-ktx:1.0.0] /home/mala/.gradle/caches/transforms-3/f1b0e4b73e6044105144e50f71c79256/transformed/palette-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /home/mala/.gradle/caches/transforms-3/7709fb6f0051e1d48132746be1a5b1cc/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /home/mala/.gradle/caches/transforms-3/7709fb6f0051e1d48132746be1a5b1cc/transformed/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mala/.gradle/caches/transforms-3/764e9289d6c4f86a533eb4efc1906480/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/mala/.gradle/caches/transforms-3/764e9289d6c4f86a533eb4efc1906480/transformed/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mala/.gradle/caches/transforms-3/f6cb7aa4cfe069ae66b3923ff5abd772/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mala/.gradle/caches/transforms-3/f6cb7aa4cfe069ae66b3923ff5abd772/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mala/.gradle/caches/transforms-3/703b09a516edd33736a60b5925dedf07/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mala/.gradle/caches/transforms-3/703b09a516edd33736a60b5925dedf07/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mala/.gradle/caches/transforms-3/b796ca765a72d6ee66bc7997f3d56a87/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mala/.gradle/caches/transforms-3/b796ca765a72d6ee66bc7997f3d56a87/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/mala/.gradle/caches/transforms-3/3f34e0c6d894f7249ae310d4c3ef1c05/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/mala/.gradle/caches/transforms-3/3f34e0c6d894f7249ae310d4c3ef1c05/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/mala/.gradle/caches/transforms-3/110d233053b913867182dd5a215c3a3a/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/mala/.gradle/caches/transforms-3/110d233053b913867182dd5a215c3a3a/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /home/mala/.gradle/caches/transforms-3/136b18da2867cdbf9a18778a0c8b3196/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /home/mala/.gradle/caches/transforms-3/136b18da2867cdbf9a18778a0c8b3196/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/mala/.gradle/caches/transforms-3/19d81b99926809925477d3f70fd1aa71/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /home/mala/.gradle/caches/transforms-3/19d81b99926809925477d3f70fd1aa71/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/mala/.gradle/caches/transforms-3/8eace9a5494c035526b72268e42aedc1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/mala/.gradle/caches/transforms-3/8eace9a5494c035526b72268e42aedc1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/mala/.gradle/caches/transforms-3/2e4d7dbc5db88eeedc6f0f7476df3997/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/mala/.gradle/caches/transforms-3/2e4d7dbc5db88eeedc6f0f7476df3997/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/mala/.gradle/caches/transforms-3/13bc0f606b1231a85b27f6a47b831049/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/mala/.gradle/caches/transforms-3/13bc0f606b1231a85b27f6a47b831049/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.autofill:autofill:1.0.0] /home/mala/.gradle/caches/transforms-3/6e32af0a4d5ae79b2b621e31eaaf0981/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/mala/.gradle/caches/transforms-3/6e32af0a4d5ae79b2b621e31eaaf0981/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mala/.gradle/caches/transforms-3/6779ed1819910f84ca78c9d76b0ff56b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mala/.gradle/caches/transforms-3/6779ed1819910f84ca78c9d76b0ff56b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/mala/.gradle/caches/transforms-3/74191777d0fd74117a9c7feb898a4016/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/mala/.gradle/caches/transforms-3/74191777d0fd74117a9c7feb898a4016/transformed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/0d9c981daab060abfe589b4f098c9450/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/0d9c981daab060abfe589b4f098c9450/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/b2d9fc359a024575cf6fadab011baf15/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/b2d9fc359a024575cf6fadab011baf15/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mala/.gradle/caches/transforms-3/ef1e547015893e22df1b149398ff3561/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mala/.gradle/caches/transforms-3/ef1e547015893e22df1b149398ff3561/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mala/.gradle/caches/transforms-3/8e46e16e13025ac1cdbb0572dcfc3637/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mala/.gradle/caches/transforms-3/8e46e16e13025ac1cdbb0572dcfc3637/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/3ae7b4793c244f415411f3a40d129e32/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mala/.gradle/caches/transforms-3/3ae7b4793c244f415411f3a40d129e32/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mala/.gradle/caches/transforms-3/8e404a54552d82ba75ed1362826a120b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mala/.gradle/caches/transforms-3/8e404a54552d82ba75ed1362826a120b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /home/mala/.gradle/caches/transforms-3/cd751deead280240bfd278d0965e481f/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/mala/.gradle/caches/transforms-3/cd751deead280240bfd278d0965e481f/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/mala/.gradle/caches/transforms-3/c69ad7dca1ce0a4cfb9a0401ea692eba/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/mala/.gradle/caches/transforms-3/c69ad7dca1ce0a4cfb9a0401ea692eba/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mala/.gradle/caches/transforms-3/515516bcd7e2c9784efc7bdd99106e27/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mala/.gradle/caches/transforms-3/515516bcd7e2c9784efc7bdd99106e27/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/mala/.gradle/caches/transforms-3/fe7ee1c452c9eec02d84c6d1634d92ee/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/mala/.gradle/caches/transforms-3/fe7ee1c452c9eec02d84c6d1634d92ee/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mala/.gradle/caches/transforms-3/bfa197638e23897a69372864836ba288/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mala/.gradle/caches/transforms-3/bfa197638e23897a69372864836ba288/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mala/.gradle/caches/transforms-3/964d03662b67a2587f1e8ade5e4f7af4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mala/.gradle/caches/transforms-3/964d03662b67a2587f1e8ade5e4f7af4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/mala/.gradle/caches/transforms-3/4b9c92b36686c8763fdf1b0331c832f5/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.2] /home/mala/.gradle/caches/transforms-3/4b9c92b36686c8763fdf1b0331c832f5/transformed/gifdecoder-4.13.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/mala/.gradle/caches/transforms-3/6982d14e15a23f3b2382a009b4e94360/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/mala/.gradle/caches/transforms-3/6982d14e15a23f3b2382a009b4e94360/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mala/.gradle/caches/transforms-3/aa640855955d5c994ceb3e7430a4e4b9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/mala/.gradle/caches/transforms-3/aa640855955d5c994ceb3e7430a4e4b9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mala/.gradle/caches/transforms-3/37cc091e2e6cbf0a9ee99739c58f5c2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/mala/.gradle/caches/transforms-3/37cc091e2e6cbf0a9ee99739c58f5c2e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mala/.gradle/caches/transforms-3/1d4184e1270c2c7cf4695c98c22af4a7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mala/.gradle/caches/transforms-3/1d4184e1270c2c7cf4695c98c22af4a7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mala/.gradle/caches/transforms-3/a596b624bad9777e63642569381a9a76/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mala/.gradle/caches/transforms-3/a596b624bad9777e63642569381a9a76/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mala/.gradle/caches/transforms-3/f65b938e55e2aac9594b5b76b46f76ab/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mala/.gradle/caches/transforms-3/f65b938e55e2aac9594b5b76b46f76ab/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mala/.gradle/caches/transforms-3/0ba24eb98b7e6b5133fb9964eea07b40/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mala/.gradle/caches/transforms-3/0ba24eb98b7e6b5133fb9964eea07b40/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mala/.gradle/caches/transforms-3/8e5047269902b917360013e9247d232c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mala/.gradle/caches/transforms-3/8e5047269902b917360013e9247d232c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/mala/.gradle/caches/transforms-3/9d6ef68581aa26f00848e6996f8f5232/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/mala/.gradle/caches/transforms-3/9d6ef68581aa26f00848e6996f8f5232/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+		ADDED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /home/mala/Downloads/kmm-movieapp-main/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /home/mala/.gradle/caches/transforms-3/1f4180c3cd6aabeb74d4874d172caf58/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /home/mala/.gradle/caches/transforms-3/1f4180c3cd6aabeb74d4874d172caf58/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /home/mala/.gradle/caches/transforms-3/1f4180c3cd6aabeb74d4874d172caf58/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mala/.gradle/caches/transforms-3/964d03662b67a2587f1e8ade5e4f7af4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/mala/.gradle/caches/transforms-3/964d03662b67a2587f1e8ade5e4f7af4/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /home/mala/.gradle/caches/transforms-3/fa02fb02b606d2d89dc1e51de68346e0/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82

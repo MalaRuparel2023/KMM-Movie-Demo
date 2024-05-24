@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mr.movieapp.android.androidApp-mergeDebugResources-41:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/mala/.gradle/caches/transforms-3/cd751deead280240bfd278d0965e481f/transformed/core-1.8.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
