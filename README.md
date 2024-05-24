@@ -34,7 +34,7 @@ The common module being used by both Android and iOS applications. We have imple
     <th>iOS version</th>
   </tr>
   <tr>
-    <td><img src="screenshots/android-movieapp.png" height="400" width="200"/></td>
+    <td><img src="screenshots/android.png" height="400" width="200"/></td>
     <td><img src="screenshots/iOS-movieapp.png" height="400" width="240"/></td>
   </tr>
 </table>
